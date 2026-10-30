@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Suraksha Saathi - Factory Worker AI Safety & Wage Companion",
+  "short_name": "Suraksha",
+  "description": "Offline-ready AI safety manual reader, wage tracker, anonymous grievance box, and emergency SOS for migrant factory workers.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09090b",
+  "theme_color": "#f59e0b",
+  "categories": ["utilities", "productivity", "safety"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

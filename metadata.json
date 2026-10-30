@@ -1,0 +1,6 @@
+{
+  "name": "Suraksha Saathi",
+  "description": "AI safety companion and wage tracker for migrant factory workers with multilingual voice/text manual reader, anonymous grievance box, and emergency SOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
